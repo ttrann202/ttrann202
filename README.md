@@ -9,5 +9,3 @@
 
 
 [![Thao Tran's github stats](https://github-readme-stats.vercel.app/api?username=ttrann202&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttrann202)](https://github.com/anuraghazra/github-readme-stats)
