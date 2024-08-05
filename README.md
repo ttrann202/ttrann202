@@ -1,9 +1,9 @@
 ### Hi there! I am Thao. 👋
 
-- :nerd_face: I got my PhD and MS in Psychology, and I also had a BA in Economics. 
+- :nerd_face: I have a PhD and MS in Psychology, and a BA in Economics. 
 - :sparkles: I love programming, data science, and more specifically, psychological methods!
-- :tada: I’m currently looking for a job (i.e. data analyst, applied researcher, program evaluation, etc.)
-- 🌱 I’m currently learning about :open_file_folder: missing data handling,:computer: Python, and 🌏 Chinese
+- :tada: I’m currently working as an Associate Researcher at Wayne State University
+- 🌱 I’m currently learning about :open_file_folder: missing data handling,:computer: Python, C++, and 🌏 German, Chinese
 - 📫 How to reach me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/thaotrann/)
   - 📧 thao.tranphuong202@gmail.com
